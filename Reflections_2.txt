@@ -1,0 +1,2 @@
+TDD - Technika tworzenia oprogramowania, zaliczana do metodyk zwinnych.
+Pierwotnie by³a czêœci¹ programowania ekstremalnego (ang. extreme programming), lecz obecnie stanowi samodzieln¹ technikê.
